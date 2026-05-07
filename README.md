@@ -4,17 +4,6 @@ Transformação do clássico jogo **Genius** em um dispositivo IoT conectado, de
 
 ---
 
-## 📋 Fases do Projeto
-
-| Fase | Descrição | Status |
-|------|-----------|--------|
-| 1 | Interface com LCD I2C e identificação do jogador por TAG | ✅ Concluída |
-| 2 | Gameplay dinâmico com dificuldade adaptativa | ✅ Concluída |
-| 3 | Conectividade MQTT — publicação de resultados na nuvem | 🔲 Pendente |
-| 4 | Dashboard Node-RED com ranking Top 10 em tempo real | 🔲 Pendente |
-
----
-
 ## 🛠️ Hardware
 
 ### Componentes
